@@ -1,6 +1,5 @@
 ## Olá! meu nome é Angelo Rafael👋
 
-- 🌱 Atualmente estudando React.js / Node.js / Typescript
 - 📫 Contate-me no email: angelorafaelsbfilho@gmaiil.com
 
 
